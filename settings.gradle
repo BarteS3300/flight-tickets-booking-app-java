@@ -1,0 +1,8 @@
+rootProject.name = 'ProjectSockets'
+include 'ProjectClient'
+include 'ProjectServer'
+include 'ProjectCommon'
+include 'ProjectREST'
+include 'ProjectREST'
+include 'ProjectReactClient'
+
